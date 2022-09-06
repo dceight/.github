@@ -1,3 +1,3 @@
-<a href="#" target="_blank">
-  <img src="dc8.webm" width="1200" alt="dc8-official" />
+<a href="https://dc8.io/" target="_blank">
+  <img src="dc8.png" width="100%" alt="dc8-official" />
 </a>
